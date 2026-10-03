@@ -1,8 +1,8 @@
-Praktikum Sistem Terdistribusi Dan Terdesentralisasi Minggu 01
-Dosen Mata Kuliah: Dr.Bambang Purnomosidi D. P.
-Git Dan GitHub
-Disusun Oleh Basilius Rivalno
-NIM: 255410027
+Praktikum Sistem Terdistribusi Dan Terdesentralisasi Minggu 01<br>
+Dosen Mata Kuliah: Dr.Bambang Purnomosidi D. P.<br>
+Git Dan GitHub<br>
+Disusun Oleh Basilius Rivalno<br>
+NIM: 255410027<br>
 
 A. Dasar Teori 
 Git dan GitHub merupakan dua tool atau alat dalam dunia pemrograman dengan fungsi yang sama sekali berbeda.
