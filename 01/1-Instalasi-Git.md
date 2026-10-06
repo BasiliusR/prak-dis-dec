@@ -28,7 +28,7 @@ Pada praktikum ini, perangkat saya menggunakan sistem operasi Windows 11 untuk m
 Saya memilih pilihan kedua agar bisa mengakses menggunakan kedua antarmuka tersebut.
 ![Akses](photos/InstalWin06.png)
 
-8.Pilih program SSH yang akan digunakan untuk terhubung ke GitHub. disini saya memilih <i>default<i> yaitu <i>Use Bundled OpenSSH<i>
+8.Pilih program SSH yang akan digunakan untuk terhubung ke GitHub. disini saya memilih <i>default<i> yaitu <i>Use Bundled <br>OpenSSH<i>
 ![SSH](photos/InstalWin07.png)
 
 9.Pada bagian ini, pilih <i>Native Window Secure Channel Library<i> untuk HTTPS nya agar Git bisa mengakses repo GitHub
