@@ -12,35 +12,35 @@ Pada praktikum ini, perangkat saya menggunakan sistem operasi Windows 11 untuk m
 2.Setelah file Git telah didownload, buka file tersebut dan akan menampilkan tampilan seperti dibawah lalu klik next.
 ![Tampilan](photos/InstalWin02.png)
 
-3.Pilih pada folder mana Git akan diinstal. disini menggunakan folder <i>default<i>.
+3.Pilih pada folder mana Git akan diinstal. disini menggunakan folder <i>default</i>.
 ![folder](photos/InstalWin10.png)
 
-4.Pada bagian <i>Select Component<i> jangan mengubah apapun atau biarkan saja <i>default<i>.
+4.Pada bagian <i>Select Component</i> jangan mengubah apapun atau biarkan saja <i>default</i>.
 ![Komponen](photos/InstalWin03.png)
 
-5.Pilih editor teks yang ingin digunakan. Saya menggunakan <i>Visual Studio Code<i> sebagai editor untuk Git.
+5.Pilih editor teks yang ingin digunakan. Saya menggunakan <i>Visual Studio Code</i> sebagai editor untuk Git.
 ![Komponen](photos/InstalWin04.png)
 
-6.Pilih <i>Branch<i> yang akan digunakan untuk <i>Repository<i> disini dipilih nama <i>Branch<i> adalah <i>Main<i>.
+6.Pilih <i>Branch</i> yang akan digunakan untuk <i>Repository</i> disini dipilih nama </i>Branch<i> adalah <i>Main</i>.
 ![Branch](photos/InstalWin05.png)
 
-7.Pilih bagaimana Git akan diakses. disediakan pilihan untuk mengakses menggunakan <i>Bash<i> dari Linux atau <i>Command Prompt<i> pada Windows.<br>
+7.Pilih bagaimana Git akan diakses. disediakan pilihan untuk mengakses menggunakan <i>Bash</i> dari Linux atau <i>Command Prompt</i> pada Windows.<br>
 Saya memilih pilihan kedua agar bisa mengakses menggunakan kedua antarmuka tersebut.
 ![Akses](photos/InstalWin06.png)
 
-8.Pilih program SSH yang akan digunakan untuk terhubung ke GitHub. disini saya memilih <i>default<i> yaitu <i>Use Bundled <br>OpenSSH<i>
+8.Pilih program SSH yang akan digunakan untuk terhubung ke GitHub. disini saya memilih <i>default</i> yaitu <i>Use Bundled OpenSSH</i>
 ![SSH](photos/InstalWin07.png)
 
-9.Pada bagian ini, pilih <i>Native Window Secure Channel Library<i> untuk HTTPS nya agar Git bisa mengakses repo GitHub
+9.Pada bagian ini, pilih <i>Native Window Secure Channel Library</i> untuk HTTPS nya agar Git bisa mengakses repo GitHub
 ![HTTPS](photos/InstalWin08.png)
 
-10.Pilih pilihan pertama atau <i>default<i> untuk konversi akhir baris pada bagian <i>Configuring The Line Ending<i>
+10.Pilih pilihan pertama atau <i>default</i> untuk konversi akhir baris pada bagian <i>Configuring The Line Ending</i>
 ![Line](photos/InstalWin09.png)
 
 11.Pada bagian minTTY untuk terminal yang akan digunakan untuk Git Bash
 ![Line](photos/InstallWin11.png)
 
-12.Pilih Git credential helper, lalu lanjut dengan menunggu penginstallan Git
+12.Pilih <i>Git credential helper</i>, lalu lanjut dengan menunggu penginstallan Git
 ![Line](photos/InstallWin12.png)
 
 13.Jika Git sudah terinstall, maka akan muncul layar seperti ini
