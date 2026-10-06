@@ -21,7 +21,7 @@ Pada praktikum ini, perangkat saya menggunakan sistem operasi Windows 11 untuk m
 5.Pilih editor teks yang ingin digunakan. Saya menggunakan <i>Visual Studio Code</i> sebagai editor untuk Git.
 ![Komponen](photos/InstalWin04.png)
 
-6.Pilih <i>Branch</i> yang akan digunakan untuk <i>Repository</i> disini dipilih nama </i>Branch<i> adalah <i>Main</i>.
+6.Pilih <i>Branch</i> yang akan digunakan untuk <i>Repository</i> disini dipilih nama <i>Branch</i> adalah <i>Main</i>.
 ![Branch](photos/InstalWin05.png)
 
 7.Pilih bagaimana Git akan diakses. disediakan pilihan untuk mengakses menggunakan <i>Bash</i> dari Linux atau <i>Command Prompt</i> pada Windows.<br>
