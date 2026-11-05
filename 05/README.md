@@ -9,5 +9,7 @@ Load Balancing merupakan sebuah proses membagikan beberapa permintaan yang masuk
 <b>Praktikum</b><br>
 1. [Membuat Aplikasi Blacksheep](Membuat_Blacksheep.md)
 
-2. 
+2. [Membuat Komponen](Membuat_Komponen.md)
+
+3. [Menjalankan Dua Replika](Menjalankan_dua_replika.md)
 
