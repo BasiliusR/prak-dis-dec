@@ -16,4 +16,7 @@ Salah satu hal yang membentuk layanan-layanan tersebut adalah Containerized
 App. Containerized App (berikutnya akan disingkat dengan CA) merupakan aplikasi yang dimaksudkan untuk dijalankan oleh container (docker, podman, …).
 
 <b>Praktikum</b><br>
-1. 
+1. [Environment Python](Env_Python.md)
+2. [Install Paket](Install.md)
+3. [Docker](Docker.md)
+4. [Menggunakan Podman](Podman.md)
